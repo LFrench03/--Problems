@@ -6,6 +6,8 @@ class Solution:
             string+= str(x) 
         string = int(string) + 1
         return [int(x) for x in str(string)]
+######## Test #########
 digits = [4,3,2,1]
 x = Solution()
 x.plusOne(digits)
+#######################

@@ -41,7 +41,9 @@ class Solution:
                     output -= 1
                     break
         return output
+##################### Test ##########################
 allowed = "fstqyienx"
 words = ["n","eeitfns","eqqqsfs","i","feniqis","lhoa","yqyitei","sqtn","kug","z","neqqis"]
 x = Solution()
 x.countConsistentStrings(allowed, words)
+#####################################################

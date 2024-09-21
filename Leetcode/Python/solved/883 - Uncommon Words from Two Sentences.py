@@ -42,9 +42,9 @@ class Solution:
                 elements[i] = union.count(i)
         words = [x for x in elements if elements[x] == 1]
         return words if words != union else [""]
-                
+############ Test ##############
 x = Solution()
 s1 = "this apple is sweet"
 s2 = "this apple is sour"
 x.uncommonFromSentences(s1,s2)
-
+################################
