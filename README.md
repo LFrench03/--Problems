@@ -1,4 +1,4 @@
-# LeetCode problems solved 🎮
+# LeetCode problems solved 
 ---
 ![](img/img.png)
 ---
