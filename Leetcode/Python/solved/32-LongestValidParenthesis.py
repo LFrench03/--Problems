@@ -1,11 +1,9 @@
 #32 Longest Valid Parenthesis
 '''
     Given a string containing just the characters '(' and ')', return the length of the longest valid (well-formed) parentheses 
-    substring
-    .
+    substring.
 
     
-
     Example 1:
 
     Input: s = "(()"

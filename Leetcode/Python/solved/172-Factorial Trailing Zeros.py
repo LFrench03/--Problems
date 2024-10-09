@@ -1,3 +1,4 @@
+#172 Factorial trailing zeroes
 '''
 Given an integer n, return the number of trailing zeroes in n!.
 
@@ -35,3 +36,30 @@ class Solution:
             n //= 5
             count += n
         return count
+    
+    def trailingZeroes2(self, n: int) -> int: #Iterativo
+        fact = 1
+        for i in range(1, n+1):
+            fact *= i
+        print(fact)
+        fact = str(fact)[::-1]
+        for i in range(len(fact)):
+            if fact[i]!="0":
+                fact=fact[:i]
+                break
+        return len(fact)    
+    
+    def trailingZeroes2(self, n: int) -> int:
+        def factorial(n: int) -> int: #Recursivo
+            if n == 0: #condicion de parada
+                return 1 #caso base
+            return n*factorial(n-1) #llamada recursiva
+        result = factorial(n)
+        result = str(result)[::-1]
+        for i in range(len(result)):
+            if result[i]!="0":
+                result=result[:i]
+                break
+        return len(result)
+x = Solution()
+print(x.trailingZeroes2(15))
