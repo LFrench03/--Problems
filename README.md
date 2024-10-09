@@ -26,7 +26,7 @@
   <summary></summary>
   
 - [Reverse Bit](https://leetcode.com/problems/reverse-bits/solutions/5885758/easy-code-explained-reverse-bit-manipulation-using-recursion-in-an-elegant-way)
-- [Minimum String Lemght After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/solutions/5880791/easy-python-singleline-c-java-solution-with-explanation)
+- [Minimum String Lenght After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/solutions/5880791/easy-python-singleline-c-java-solution-with-explanation)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/solutions/5850201/easy-python-explained-solution-on-time-o1-space-complexity-valid-palindrom)
 - [Reverse Interger](https://leetcode.com/problems/reverse-integer/solutions/5797089/easy-simple-reverse-interger-method-32-bits-range-in-6-lines)
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/solutions/5888839/one-line-solution-clasic-fizzbuzz-o-n-complexity-using-list-comprehension)
