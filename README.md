@@ -31,7 +31,7 @@
 - [Reverse Interger](https://leetcode.com/problems/reverse-integer/solutions/5797089/easy-simple-reverse-interger-method-32-bits-range-in-6-lines)
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/solutions/5888839/one-line-solution-clasic-fizzbuzz-o-n-complexity-using-list-comprehension)
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/solutions/5890090/hamming-weight-number-if-1-bits-recursive-string-solution-with-o-log-n-complexity-explained)
-- [Isomorphic string](hhttps://leetcode.com/problems/isomorphic-strings/solutions/5894293/one-line-solution-using-list-comprehension-o-n-complexity-explained)
+- [Isomorphic string](https://leetcode.com/problems/isomorphic-strings/solutions/5894293/one-line-solution-using-list-comprehension-o-n-complexity-explained)
 
 <h3 align=center><b>Complexity hierarchy:</b></h3>
 <p align="center">
