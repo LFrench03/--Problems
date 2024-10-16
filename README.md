@@ -14,7 +14,7 @@
 
 <p align="center">
     <a>
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="py" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="js" width="75" height="75" />  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="70" height="70" /> 
+        <b href='Leetcode/Python'><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="py" width="65" height="65" /></b> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="js" width="75" height="75" />  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="70" height="70" /> 
     </a>     
 </p>
 
