@@ -32,6 +32,10 @@
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/solutions/5888839/one-line-solution-clasic-fizzbuzz-o-n-complexity-using-list-comprehension)
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/solutions/5890090/hamming-weight-number-if-1-bits-recursive-string-solution-with-o-log-n-complexity-explained)
 - [Isomorphic string](https://leetcode.com/problems/isomorphic-strings/solutions/5894293/one-line-solution-using-list-comprehension-o-n-complexity-explained)
+- [N-Queens](https://leetcode.com/problems/n-queens/solutions/5910147/backtracking-easy-python-n-queens-solution)
+- [N-Queens II](https://leetcode.com/problems/n-queens-ii/solutions/5910040/backtracking-simple-explained-python-solution-n-queens-ii)
+- [Word Pattern](https://leetcode.com/problems/word-pattern/solutions/5915400/one-line-easy-python-solution-explained-word-pattern)
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/solutions/5915431/one-line-easy-python-solution-explained-valid-anagram)
 
 <h3 align=center><b>Complexity hierarchy:</b></h3>
 <p align="center">
