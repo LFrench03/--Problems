@@ -36,6 +36,7 @@
 - [N-Queens II](https://leetcode.com/problems/n-queens-ii/solutions/5910040/backtracking-simple-explained-python-solution-n-queens-ii)
 - [Word Pattern](https://leetcode.com/problems/word-pattern/solutions/5915400/one-line-easy-python-solution-explained-word-pattern)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/solutions/5915431/one-line-easy-python-solution-explained-valid-anagram)
+- [Reverse String](https://leetcode.com/problems/reverse-string/solutions/5924220/one-line-code-hack-simple-python-solution)
 
 <h3 align=center><b>Complexity hierarchy:</b></h3>
 <p align="center">
