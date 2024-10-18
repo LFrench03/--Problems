@@ -29,6 +29,7 @@
 - [Minimum String Lenght After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/solutions/5880791/easy-python-singleline-c-java-solution-with-explanation)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/solutions/5850201/easy-python-explained-solution-on-time-o1-space-complexity-valid-palindrom)
 - [Valid Palindrom (2nd submission with 3ms Runtime)](https://leetcode.com/problems/valid-palindrome/solutions/5930324/valid-palindrome-3ms-runtime-100-beats-less-then-5-lines-easy-solution)
+- [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/solutions/5930410/valid-palindrome-ii-31ms-runtime-100-beats-less-then-6-lines-easy-solution)
 - [Reverse Interger](https://leetcode.com/problems/reverse-integer/solutions/5797089/easy-simple-reverse-interger-method-32-bits-range-in-6-lines)
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/solutions/5888839/one-line-solution-clasic-fizzbuzz-o-n-complexity-using-list-comprehension)
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/solutions/5890090/hamming-weight-number-if-1-bits-recursive-string-solution-with-o-log-n-complexity-explained)
