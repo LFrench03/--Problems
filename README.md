@@ -39,6 +39,9 @@
 - [Word Pattern](https://leetcode.com/problems/word-pattern/solutions/5915400/one-line-easy-python-solution-explained-word-pattern)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/solutions/5915431/one-line-easy-python-solution-explained-valid-anagram)
 - [Reverse String](https://leetcode.com/problems/reverse-string/solutions/5924220/one-line-code-hack-simple-python-solution)
+- [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/solutions/5939188/simple-intuitive-python-solution-explained-find-kth-bit-in-nth-binary-string)
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/solutions/5939272/simple-intuitive-python-solution-explained-98-beats-set-matrix-zeroes)
+- [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/solutions/5943392/easy-recursive-python-solution-explained-100-beats-spiral-matrix)
 
 <h3 align=center><b>Complexity hierarchy:</b></h3>
 <p align="center">
