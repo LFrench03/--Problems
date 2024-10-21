@@ -42,6 +42,8 @@
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/solutions/5939188/simple-intuitive-python-solution-explained-find-kth-bit-in-nth-binary-string)
 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/solutions/5939272/simple-intuitive-python-solution-explained-98-beats-set-matrix-zeroes)
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/solutions/5943392/easy-recursive-python-solution-explained-100-beats-spiral-matrix)
+- [Rotate Image](https://leetcode.com/problems/rotate-image/solutions/5946027/two-simple-python-solutions-explained-97-100-beats-rotate-image)
+- [Game of Life](https://leetcode.com/problems/game-of-life/solutions/5946076/two-python-solutions-100-beats-game-of-life)
 
 <h3 align=center><b>Complexity hierarchy:</b></h3>
 <p align="center">
