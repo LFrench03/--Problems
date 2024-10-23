@@ -44,6 +44,8 @@
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/solutions/5943392/easy-recursive-python-solution-explained-100-beats-spiral-matrix)
 - [Rotate Image](https://leetcode.com/problems/rotate-image/solutions/5946027/two-simple-python-solutions-explained-97-100-beats-rotate-image)
 - [Game of Life](https://leetcode.com/problems/game-of-life/solutions/5946076/two-python-solutions-100-beats-game-of-life)
+- [Fibonnacci Number](https://leetcode.com/problems/fibonacci-number/solutions/5946249/easy-old-school-backtracking)
+- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/solutions/5956615/fibonacci-style)
 
 <h3 align=center><b>Complexity hierarchy:</b></h3>
 <p align="center">
