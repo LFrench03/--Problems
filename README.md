@@ -1,10 +1,10 @@
-<h1 align=center><b style="color:SkyBlue;">LeetCode Problem-Solving</b></h1>
+<h1 align=center><b style="color:purple;">LeetCode Problem-Solving</b></h1>
 
 ---
 
 <p align="center">
   <a href="https://leetcode.com/u/Lerne03/">
-    <img src="https://leetcode-stats.vercel.app/api?username=Lerne03&theme=Dark" alt="Lerne03's LeetCode Stats"/>
+    <img src="https://leetcode-stats.vercel.app/api?username=Lerne03" alt="Lerne03's LeetCode Stats"/>
   </a>
 </p>
 
