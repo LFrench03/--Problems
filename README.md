@@ -1,4 +1,4 @@
-<h1 align=center><b style="color:purple;">LeetCode Problem-Solving</b></h1>
+<h1 align=center><b>LeetCode Problem-Solving</b></h1>
 
 ---
 
@@ -7,7 +7,6 @@
     <img src="https://leetcode-stats.vercel.app/api?username=Lerne03" alt="Lerne03's LeetCode Stats"/>
   </a>
 </p>
-
 <h3 align=center><b>Languages:</b></h3>
 
 ---
@@ -46,6 +45,9 @@
 - [Game of Life](https://leetcode.com/problems/game-of-life/solutions/5946076/two-python-solutions-100-beats-game-of-life)
 - [Fibonnacci Number](https://leetcode.com/problems/fibonacci-number/solutions/5946249/easy-old-school-backtracking)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/solutions/5956615/fibonacci-style)
+- [Remove Subfolders from Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/solutions/5966428/simple-solution-explained)
+- [Simplify Path](https://leetcode.com/problems/simplify-path/solutions/5966520/simple-simplify-path-4-lines)
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/solutions/5966544/simple-single-return-line-solution)
 
 <h3 align=center><b>Complexity hierarchy:</b></h3>
 <p align="center">
