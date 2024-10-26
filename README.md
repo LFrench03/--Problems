@@ -48,6 +48,7 @@
 - [Remove Subfolders from Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/solutions/5966428/simple-solution-explained)
 - [Simplify Path](https://leetcode.com/problems/simplify-path/solutions/5966520/simple-simplify-path-4-lines)
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/solutions/5966544/simple-single-return-line-solution)
+- [Same Tree](https://leetcode.com/problems/same-tree/solutions/5972159/one-line-solution-explained)
 
 <h3 align=center><b>Complexity hierarchy:</b></h3>
 <p align="center">
