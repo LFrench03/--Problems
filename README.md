@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Lerne03/">
-    <img src="https://leetcode-stats.vercel.app/api?username=Lerne03" alt="Lerne03's LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/Lerne03?theme=light" alt="Lerne03's LeetCode Stats"/>
   </a>
 </p>
 <h3 align=center><b>Languages:</b></h3>
