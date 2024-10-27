@@ -50,6 +50,7 @@
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/solutions/5966544/simple-single-return-line-solution)
 - [Same Tree](https://leetcode.com/problems/same-tree/solutions/5972159/one-line-solution-explained)
 - [Path Sum](https://leetcode.com/problems/path-sum/solutions/5972791/one-line-solution)
+- [Valid Number](https://leetcode.com/problems/valid-number/solutions/5973519/one-line-regex-solution-valid-number)
 
 <h3 align=center><b>Complexity hierarchy:</b></h3>
 <p align="center">
