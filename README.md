@@ -51,6 +51,7 @@
 - [Same Tree](https://leetcode.com/problems/same-tree/solutions/5972159/one-line-solution-explained)
 - [Path Sum](https://leetcode.com/problems/path-sum/solutions/5972791/one-line-solution)
 - [Valid Number](https://leetcode.com/problems/valid-number/solutions/5973519/one-line-regex-solution-valid-number)
+- [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/solutions/5980919/recursive-approach-maximum-number-of-moves-in-a-grid)
 
 <h3 align=center><b>Complexity hierarchy:</b></h3>
 <p align="center">
