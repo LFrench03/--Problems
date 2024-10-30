@@ -52,6 +52,8 @@
 - [Path Sum](https://leetcode.com/problems/path-sum/solutions/5972791/one-line-solution)
 - [Valid Number](https://leetcode.com/problems/valid-number/solutions/5973519/one-line-regex-solution-valid-number)
 - [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/solutions/5980919/recursive-approach-maximum-number-of-moves-in-a-grid)
+- [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/solutions/5985264/elegant-intuitive-solution-convert-sorted-array-to-bst)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/5985322/one-line-solution-there-is-always-an-easier-way-search-in-rotated-sorted-array)
 
 <h3 align=center><b>Complexity hierarchy:</b></h3>
 <p align="center">
