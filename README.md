@@ -54,6 +54,11 @@
 - [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/solutions/5980919/recursive-approach-maximum-number-of-moves-in-a-grid)
 - [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/solutions/5985264/elegant-intuitive-solution-convert-sorted-array-to-bst)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/5985322/one-line-solution-there-is-always-an-easier-way-search-in-rotated-sorted-array)
+- [Sort List](https://leetcode.com/problems/sort-list/solutions/5989174/easy-approach-sort-list)
+- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/5997086/one-line-solution-theres-always-an-easier-way)
+- [Circular Sentence](https://leetcode.com/problems/circular-sentence/solutions/5997162/simple-approach-explained-circular-sentence)
+- [Delete Characters to Make Fancy Strig](https://leetcode.com/problems/delete-characters-to-make-fancy-string/solutions/5997220/simple-approach-explained-delete-characters-to-make-fancy-string)
+
 
 <h3 align=center><b>Complexity hierarchy:</b></h3>
 <p align="center">
